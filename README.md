@@ -23,10 +23,6 @@ This will wrap each video in a `div.fluid-width-video-wrapper` and apply the nec
 
 <table>
 <tr><td>YouTube</td><td>Y</td></tr>
-<tr><td>Vimeo</td><td>Y</td></tr>
-<tr><td>Blip.tv</td><td>Y*</td></tr>
-<tr><td>Viddler</td><td>Y*</td></tr>
-<tr><td>Kickstarter</td><td> Y*</td></tr>
 </table>
 
 `*` means native support for these may be deprecated. If your video platform is not currently supported, try adding it via a `customSelector`...
